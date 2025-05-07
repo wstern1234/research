@@ -1,0 +1,501 @@
+ID	Label	Text
+1	Wordplay	If the opposite of pro is con, isn't the opposite of progress, congress?
+2	Wordplay	There was a dyslexic insomniac agnostic.  He laid awake all night wondering if there really was a Dog.
+3	Wordplay	Do infants enjoy infancy as much as adults enjoy adultery?
+4	Wordplay	If a pig loses its voice, is it disgruntled?
+5	Dry	Before you judge someone, you should walk a mile in their shoes.  That way, when you judge them, you're a mile away and you have their shoes.
+6	Random/Absurd	When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl
+7	Anti-joke	Two guys walked into a bar... you would have thought the second one would have ducked.
+8	Anti-joke	The darkest hours come just before the dawn.  So if you're going to steal your neighbour's milk and newspaper, that's the time to do it.
+9	Dry	If at first you don't succeed ... avoid skydiving.
+10	Satire/Parody	Give a man a fish and he will eat for a day...  Teach him how to fish, and he will sit in a boat and drink beer all day.
+11	Random/Absurd	Never play leapfrog with a unicorn.
+12	Satire/Parody	Politics comes from the root "poli-", which means many, and "-tics", which means, blood-sucking creatures.
+13	Satire/Parody	Why do they have braille on drive-thru ATMs?
+14	Mockery	Can women put mascara on with their mouth closed?
+15	Wordplay	The early bird may get the worm, but the second mouse gets the cheese.
+16	Satire/Parody	Eagles may soar, but weasels don't get sucked into jet engines.
+17	Dry	I drive way too fast to worry about my cholesterol.
+18	Wordplay	Success is relative. The more success, the more relatives!
+19	Anti-joke	When everything is coming your way, you're on the wrong side of the freeway.
+20	Wordplay	A good way to save face is to keep the lower half shut.
+21	Dry	Silence is golden, because you never have to explain something you didn't say.
+22	Random/Absurd	I'm such an insomniac, the sheep fall asleep before I do.
+23	Dry	It is said that "it is always in the last place you look" Well of course!  Are there some people out there who keep looking after they find it?
+24	Dry	Those who live by the sword get shot by those who don't.
+25	Satire/Parody	My wife keeps complaining I never listen to her...or something like that.
+26	Satire/Parody	Don't steal. The government hates competition.
+27	Wordplay	Why is the word abbreviation so long?
+28	Anti-joke	My grandmother started walking five miles a day when she was 60. Now she's 97 years old and we don't know where the hell she is.
+29	Wordplay	If you are going to try cross-country skiing, start with a small country.
+30	Dry	I don't exercise because it makes the ice jump right out of my glass.
+31	Satire/Parody	Lawyers creed: A man is innocent until proven broke.
+32	Wordplay	The Egyptologist sneezed: Hapshepsut!
+33	Wordplay	Ever notice that "fat chance" and "slim chance" mean the same thing?
+34	Satire/Parody	Take your income and add 10%
+35	Random/Absurd	Every solution breeds new problems.
+36	Satire/Parody	Did you hear about the new Polish million dollar lotery?  You get a dollar a year for a million years!!!
+37	Satire/Parody	Sometimes I get the feeling the whole world is against me, but deep down I know that's not true.  Some of the smaller countries are neutral.  -- Robert Orben
+38	Wordplay	Sign seen on a maternity-ward door:  Push! Push! Push!
+39	Mockery	Seen on a bumper sticker:  "I don't care who's on board, what you love, who you brake for or what you'd rather be doing."
+40	Mockery	All my life I wanted to be someone; I guess I should have been more specific.  -Jane Wagner
+41	Mockery	Karate is a form of martial arts in which people who have had years and years of training can, using only their hands and feet, make some of the worst movies in the history of the world.  -Dave Barry
+42	Wordplay	Then there was the model who sat on a broken bottle and cut a good figure.
+43	Wordplay	Then there was the neat nurse, who made the patient without disturbing the bed.
+44	Random/Absurd	Then there were the three bears.  One married a giraffe.  The other two put him up to it.
+45	Mockery	Madame, said the psychiatrist, "you haven't got a complex; you ARE inferior."
+46	Wordplay	The wife ran into the house, screaming to her actor husband, "Darling, come quick.  Your kids and my kids are beating up on our kids!"
+47	Wordplay	The Romans had to give up their big holidays because of the tremendous overhead.  The lions ate up all of their prophets.
+48	Wordplay	I wonder who came up with the company People's Gas and where was their Pepto-Bismal?
+49	Satire/Parody	I make money the old-fashioned way.  My salary is the same as it was ten years ago.
+50	Wordplay	Actual Newspaper Headline:  Kids Make Great Snacks For Teachers.
+51	Satire/Parody	Overheard in a doctor's waiting room:  "My uncle had a cough like yours and he died.  Mind you, he was hiding under his neighbour's bed at the time."
+52	Wordplay	Did you hear about the scientist who crossed a carrier pigeon with a woodpecker?  He got a bird that not only delivers messages to their destination but knocks on the door when it gets there.
+53	Wordplay	What did the Zen Buddhist say to the New York hot-dog vendor?  "Make me one with everything."
+54	Satire/Parody	For Gods sakes Bill! Help her find it!. ~Hillary after walking in with Monica on her hands and knees in front of Bill
+55	Wordplay	What's the difference between an enzyme and a hormone?  You can't hear an enzyme!
+56	Wordplay	I recently went to my  30th class reunion from nursery school.  I didn't want to go because I've put on maybe 90 or 100 pounds since then.
+57	Dry	The amount of sleep required by the average person is about five minutes more.
+58	Dry	They say one way to build character is to do things you don't want to do.  Every day I do two things I don't want to do: I get out of bed in the morning and go to bed at night!
+59	Dry	Money is not the most important thing in the world.  Love is.  Fortunately, I love money.  -- Jackie Mason
+60	Dry	The perfect climate is in bed.
+61	Satire/Parody	Opera: where somebody gets stabbed in the back and, instead of bleeding, sings.
+62	Random/Absurd	If you don't like my driving, stay out of the bus shelters!
+63	Anti-joke	Overheard at an exhibit in the science museum:  "It says here that oxygen was discovered over two hundred years ago."  "Wow! What did people breathe before that?"
+64	Satire/Parody	Did you hear about the new dictionary for masochists?  It has all the words, but they're not in alphabetical order.
+65	Random/Absurd	Never ever take a sleeping pill and a laxative in the same night.
+66	Wordplay	Why don't ghosts make good magicians? You can see right through them!
+67	Satire/Parody	Famous Last Words  "Oh come on, nobody's died from this in years."  "I saw it on Jackass last night."  "My dad did it when he was a kid."  "Yes, I'm sure that the power is off."  "It'll only hurt for a couple of days."  "See, I'm not afraid of heights."
+68	Dry	Famous Last Words:  "The gun isn't loaded, ok?"  "Yes, I double checked."  "This fuse should give us plenty of time."  "I don't think he has a gun."  "This is a very safe neighborhood!"  "I am 100% sure of the blast radius."
+69	Dry	FAMOUS LAST WORDS   "One sec, I've got to go the bathroom!"  :)  "It doesn't hurt... that... bad..."  "This stuff works just as well!"  "It looks like it's coming right towards us!"  "Here, let me handle this, forget the cops!"  "I read this in a 'how-to' magazine once."  "No I'm not a skydiver, but I did stay at a Holiday Inn Express Last Night."  "Proper equipment is for rich people."  "I don't know. Let's find out!"  "I did it in a video game last night."  "Did you hear that? Sounded like something big. Where's that flashlight?"  And finally...                             "OH SHIT!!!!"
+70	Wordplay	What do you call an Irishman sitting in your backyard?  Paddy O'Furniture
+71	Random/Absurd	Q. What's worse than raining cats and dogs?  A. Hailing taxicabs!
+72	Wordplay	Ghost Stories by I.C. Spooks  Rocket to the sun by R.U.Nuts  Your Book of Glamour by Q.T Pie  The Camel Ride by Major Bum - issore  How to Grow Shorter by Neil Down  How to Grow Taller by Stan Dup
+73	Wordplay	The Chinese say: Baseball is wrong. Man with four balls cannot walk.
+74	Wordplay	Men who walk in front of car get tired. Men who walk in back of car get exhausted.
+75	Mockery	Q: What's the difference between a girls track team and a tribe of pygmies?  A: The pygmies are cunning little runts.
+76	Dry	Middle Age: when knees buckle and belts don't.
+77	Wordplay	Navy dentist's licence plate: TOP GUM
+78	Satire/Parody	Poise: the ability to continue speaking fluently while the other fellow is picking up the cheque.
+79	Mockery	He who laughs last, thinks slowest.
+80	Mockery	What's the difference between a Ford and a golf ball?  You can drive a golf ball 200 yards.
+81	Wordplay	Q: What's the difference between Snowmen and Snowwomen?  A: Snowballs
+82	Satire/Parody	If Barbie is so popular, why do you have to buy all her friends?
+83	Wordplay	There are three kinds of people in this world, those who can count, and those who can not!
+84	Satire/Parody	Vacation begins when dad says. "I know a shortcut"!
+85	Wordplay	Energizer Bunny arrested... charged with battery.
+86	Satire/Parody	Lottery, a tax on people who can't do math
+87	Wordplay	all generalizations are false
+88	Satire/Parody	Eat right, stay fit, die anyway!
+89	Satire/Parody	IRS... we've got what it takes, to take what you've got
+90	Dry	Laugh alone and the world thinks you're an idiot.
+91	Wordplay	DNA, national dyslexic association
+92	Satire/Parody	Be nice to your kids, they'll choose your nursing home.
+93	Wordplay	I don't suffer from insanity... I enjoy every minute of it.
+94	Dry	No one is listening to you until you make a mistake.
+95	Wordplay	Dyslexics of the world, untie!
+96	Satire/Parody	DARE, to keep cops off donuts
+97	Anti-joke	On the other hand, you have different fingers.
+98	Wordplay	Save a tree, eat a beaver!!
+99	Wordplay	Nothing is fool proof to a sufficiently talented fool.
+100	Wordplay	Sometimes I wake up grumpy, other times I let her sleep.
+101	Anti-joke	Always remember that you are unique, just like everybody else!
+102	Random/Absurd	Always go to other peoples funerals, or they wont come to yours.
+103	Dry	Everywhere is within walking distance if you have the time.
+104	Satire/Parody	Bills travel through the mail at twice the speed of checks.
+105	Wordplay	Nobody's perfect-I'm a nobody.
+106	Dry	Ask me about my vow of silence..
+107	Wordplay	Courdory pillows--they're making headlines.
+108	Wordplay	What is another word for Thesaurus?
+109	Mockery	The hardness of butter is directly proportional to the softness of bread.
+110	Wordplay	Her name was Virginia.  They called her Virgin for short, but not for long!
+111	Random/Absurd	And out of the night came the terrible scream, "Who put the sand in the Vaseline!?"
+112	Anti-joke	What's the difference between two yards?   A. Usually a fence.
+113	Wordplay	When physics meets Star Wars:   May the net force be with you!
+114	Wordplay	Q. What do you call a guy that sits on your doorstep?  A. A Matt.
+115	Wordplay	What disasters would happen if a waiter dropped a plate of turkey?   The  downfall of Greece,  the overthrow of Turkey  and the break up of China
+116	Mockery	Borrow money from a pessimist---They don't expect it back.
+117	Dry	A clear conscience is usually the sign of a bad memory.
+118	Satire/Parody	A man said his credit card was stolen but he decided not to report it because the thief was spending less than his wife did.
+119	Wordplay	A three-legged dog walks into a saloon in the Old West. He sidles up to the bar and announces "I'm looking for the man who shot my paw."
+120	Satire/Parody	When is it Michael Jackson's bed time?       When the little hand meets the big hand.
+121	Satire/Parody	What do you call happiness?        Seeing your mother-in-law's photo on the back of a milk carton!
+122	Satire/Parody	What's the difference between an alchoholic & a drug addict?     The alchoholic drives over the stop sign, while the drug addict waits for it to turn green.
+123	Satire/Parody	Q.   What's the difference between a paycheck and your dick ?        A.   You don't have to beg a woman to blow your paycheck.
+124	Random/Absurd	Q.   What are the small bumps around a woman's' nipples for ?        A.   They are Braille for "suck here".
+125	Wordplay	Q.   What's the difference between a woman and a coffin ?         A.   You come in one and go in the other.
+126	Mockery	Q.   Why do husbands die before their wives ?           A.   They want to
+127	Mockery	Q.   What's the difference between a woman with PMS and a pitbull ?          A.    Lipstick.
+128	Wordplay	What is a horse's favourite Shakepearean play?  Rodeo and Juliet
+129	Wordplay	Q)Where do penguins go to dance? A)The snowball
+130	Wordplay	Q)Where do eskimo pigs live? A)In a pigloo.
+131	Wordplay	Q)Why does a traffic light turn red? A)You would to if you had to change in front of all those people.
+132	Anti-joke	Q)what do you call a polar bear in the jungle? A)lost!
+133	Anti-joke	Q)A hippo is sitting on your chair....what time is it? A)Time to get a new chair
+134	Wordplay	Q: What do you get when a rooster crosses a duck? A: A bird that gets up at the quack of dawn!
+135	Anti-joke	Q.Why shouldn't you wear snow boots? A.Because they will melt!
+136	Wordplay	Q. Why would Snow White be a good judge? A.Because she's the fairest in the land.
+137	Wordplay	Q.Where do tough chickens come from? A.Hard boiled eggs!
+138	Wordplay	Q.Why did the house go to the doctor? A.To get a cure for his window pane!
+139	Wordplay	What did the chef name his son? Stu
+140	Wordplay	How do you fix a broken tomato? With tomato paste!
+141	Wordplay	What did the cat say to the elephant?  "......................meOW!"
+142	Wordplay	The Lazy Boy, by Yu Doit
+143	Wordplay	What do soccer players drink?  Penaltea!
+144	Wordplay	Why does Santa have 3 gardens?   So he can ho ho ho.
+145	Anti-joke	Why do firemen use red suspenders?  To hold their pants up!!!
+146	Satire/Parody	What do you call a herd of white people? Avalanche What do you call a herd of black people? Mudslide What do you call a herd of mexicans? Jailbreak!
+147	Wordplay	Friends are like condoms, they protect you when things get hard.
+148	Dry	Grandchildren are God's reward for not killing your children.
+149	Wordplay	Where should a dressmaker live?  On the outskirts of the city.
+150	Wordplay	Why was the broom tired?  It over swept.
+151	Random/Absurd	Two white horses fell in the mud and three came out.
+152	Wordplay	What kind of soup weighs 1000 pounds?  Won ton soup!
+153	Mockery	You know that you're a really boring person when someone steals your identity and then tries to give it back.
+154	Wordplay	Which came first - the chicken or the egg?    It depends on who got laid first!
+155	Satire/Parody	There was a young hooker named Gail whose price was tattooed on her tail. And on her behind, for the sake of the blind, was the same information in Braille.
+156	Wordplay	Hygiene Teacher: How can you prevent diseases caused by biting insects?   Jose: Don't bite any.
+157	Satire/Parody	First guy (proudly): "My wife's an angel!"  Second guy: "You're lucky, mine's still alive."
+158	Satire/Parody	Do you know the punishment for bigamy?   Two mothers-in-law.
+159	Anti-joke	Teacher: Willy, name one important thing we have today that we didn't have ten years ago.   Willy: Me
+160	Satire/Parody	Just think, if it weren't for marriage,  men would go through life thinking they had no faults at all.
+161	Satire/Parody	If the entire world was a stage and God was the director, what we need is a rehearsal.
+162	Satire/Parody	Why don't women blink during foreplay?  They don't have time.
+163	Satire/Parody	What do you call a woman who knows where her husband is every night?  A widow.
+164	Mockery	How are men and parking spots alike?  Good ones are always taken. Free ones are mostly handicapped or extremely short.
+165	Wordplay	The zoology teacher asked a small boy to make a sentence using the word "possum."  He answered, "Maw got horny and gave possum."
+166	Wordplay	A guy walks into a bar wearing a pair of jumper cables around his neck.   The bartender looks at him and says, "Hey buddy, don't try to start anything..."
+167	Satire/Parody	The only reason I would take up jogging is so that I could hear heavy breathing again.
+168	Mockery	What's the best form of birth control after 50?    Nudity.
+169	Satire/Parody	What's the difference between a girlfriend and a wife?    45 lbs.
+170	Satire/Parody	What's the difference between a boyfriend and a husband?    45 minutes.
+171	Satire/Parody	What's the difference between a new husband and a new dog?    After a year, the dog is still excited to see you.
+172	Satire/Parody	What makes men chase women they have no intention of marrying?    The same urge that makes dogs chase cars they have no intention of driving.
+173	Mockery	Why does the bride always wear white?    Because it's good for the dishwasher to match the stove and refrigerator.
+174	Wordplay	Why don't bunnies make noise when they have sex?    Because they have cotton balls.
+175	Wordplay	What's the difference between Beer Nuts and Deer Nuts?    Beer Nuts are $1, and Deer Nuts are always under a buck.
+176	Random/Absurd	What's the difference between a toad and a horny toad?  One says "Ribbit ribbit" and the other says "Rubbit rubbit".
+177	Random/Absurd	So Many Men, So Few Who Can Afford Me.  God Made Us Sisters, Prozac Made Us Friends.  My Mother Is A Travel Agent For Guilt Trips.  Princess, Having Had Sufficient Experience With Princes, Seeks Frog.  Coffee, Chocolate, Men ... Some Things Are Just Better Rich.  Don't Treat Me Any Differently Than You Would The Queen  Warning: I Have An Attitude And I Know How To Use It.  Of Course I Don't Look Busy...I Did It Right The First Time.  Do Not Start With Me.  You Will Not Win.  Sorry If I Looked Interested.  I'm Not.  If You Want Breakfast In Bed, Sleep In The Kitchen.
+178	Wordplay	What did the number 0 say to the number 8?  "Hey, nice belt!"
+179	Anti-joke	Hickory, Dickory Dock Three mice ran up the clock The clock struck one...  The rest got away with minor injuries
+180	Wordplay	Want to hear a clean joke? Bob took a bath with bubbles.  Want to hear a dirty joke? Bubbles is Bobs neighbor.
+181	Mockery	Q: What do you get when you cross the Atlantic Ocean with the Titanic?  A: Halfway.
+182	Wordplay	Q. Why don't witches like to ride their brooms when they're angry?  A. They're afraid of flying off the handle!
+183	Wordplay	Never accept a drink from a urologist, nor a friendly handshake from a proctologist.
+184	Mockery	Never get into fights with ugly people, they have nothing to lose.
+185	Dry	When putting cheese in a mousetrap, always leave room for the mouse.
+186	Dry	Sometimes you are the dog. Sometimes you are the hydrant
+187	Mockery	Everyone has a right to be stupid. Some just abuse the privilege.
+188	Random/Absurd	Whatever hits the fan will not be evenly distributed.
+189	Satire/Parody	Be a good housekeeper. When you leave him ... get a good lawyer ...keep his house
+190	Satire/Parody	Gardening Rule: When weeding, the best way to make sure you are removing a weed and not a valuable plant is to pull on it. If it comes out of the ground easily, it is a valuable plant.
+191	Dry	The easiest way to find something lost around the house is to buy a replacement.
+192	Dry	Never take life seriously. Nobody gets out alive anyway.
+193	Random/Absurd	There are two kinds of pedestrians -- the quick and the dead.
+194	Anti-joke	Life is sexually transmitted.
+195	Dry	An unbreakable toy is useful for breaking other toys.
+196	Dry	Health is merely the slowest possible rate at which one can die.
+197	Dry	The only difference between a rut and a grave is the depth.
+198	Satire/Parody	Health nuts are going to feel stupid someday, lying in hospitals dying of nothing.
+199	Dry	Get the last word in: Apologize.
+200	Dry	Some people are like Slinkies...not really good for anything, but you still can't help but smile when you see one tumble down the stairs.
+201	Satire/Parody	Why does a slight tax increase cost you two hundred dollars and a substantial tax cut saves you thirty cents?
+202	Satire/Parody	How is it one careless match can start a forest fire, but it takes a whole box to start a campfire?
+203	Wordplay	Some people say that I'm superficial, but that's just on the surface.
+204	Wordplay	Now that food has replaced sex in my life, I can't even get into my own pants.
+205	Satire/Parody	Marriage changes passion. Suddenly you're in bed with a relative.
+206	Mockery	I saw a woman wearing a sweatshirt with "Guess" on it.   So I said "Implants?"   She hit me.
+207	Dry	I don't do drugs.   I get the same effect just standing up fast.
+208	Wordplay	Sign in a Chinese Pet Store: "Buy one dog, get one flea..."
+209	Random/Absurd	I live in my own little world. But it's OK. They know me here.
+210	Wordplay	I got a sweater for Christmas. I really wanted a screamer or a moaner.
+211	Wordplay	If flying is so safe, why do they call the airport the terminal?
+212	Satire/Parody	I don't approve of political jokes. I've seen too many of them get elected.
+213	Mockery	There are two sides to every divorce: Yours and shithead's.
+214	Satire/Parody	I love being married. It's so great to find that one special person you want to annoy for the rest of your life.
+215	Anti-joke	Every day I beat my own previous record for number of consecutive days I've stayed alive.
+216	Satire/Parody	How come we choose from just two people to run for president and 50 for Miss America?
+217	Satire/Parody	Isn't having a smoking section in a restaurant like having a peeing section in a swimming pool?
+218	Mockery	Why is it that most nudists are people you don't want to see naked?
+219	Dry	Snowmen fall from Heaven unassembled.
+220	Mockery	Every time I walk into a singles bar I can hear Mom's wise words: "Don't pick that up, you don't know where it's been!"
+221	Wordplay	Not only am I redundant and superfluous, but I also tend to use more words than necessary.
+222	Dry	Life is full of uncertainties...or could I be wrong about that?
+223	Satire/Parody	A good friend will come and bail you out of jail...but, a true friend will be sitting next to you saying, "Damn...that was fun!"??
+224	Wordplay	Energizer Bunny arrested - charged with battery.   A pessimist's blood type is always b-negative.   Practice safe eating - always use condiments.   A Freudian slip is when you say one thing but mean your mother.   Shotgun wedding: A case of wife or death.   I used to work in a blanket factory, but it folded.   If electricity comes from electrons... does that mean that morality comes from morons?   Marriage is the mourning after the knot before.
+225	Wordplay	A hangover is the wrath of grapes.   Corduroy pillows are making headlines.   Is a book on voyeurism a peeping tome?   Dancing cheek-to-cheek is really a form of floor play.   Banning the bra was a big flop.   Sea captains don't like crew cuts.   Does the name Pavlov ring a bell?   A successful diet is the triumph of mind over platter.
+226	Wordplay	Time flies like an arrow. Fruit flies like a banana.   A gossip is someone with a great sense of rumor.   Without geometry, life is pointless.   When you dream in color, it's a pigment of your imagination.   Condoms should be used on every conceivable occasion.   Reading whilst sunbathing makes you well-red.   When two egotists meet, it's an I for an I.   Alarms: What an octopus is.
+227	Mockery	Crick: The sound that a Japanese camera makes.   Dockyard: A physician's garden.   Incongruous: Where bills are passed.   Khakis: What you need to start the car in Boston.   Oboe: An English tramp.   Pasteurize: Too far to see.   Propaganda: A gentlemanly goose.   Toboggan: Why we go to an auction
+228	Wordplay	A bicycle can't stand alone because it is two tired.
+229	Wordplay	She had a boyfriend with a wooden leg, but broke it off.
+230	Wordplay	A chicken crossing the road is poultry in motion.
+231	Wordplay	If you don't pay your exorcist you get repossessed.
+232	Wordplay	When a clock is hungry it goes back four seconds.
+233	Wordplay	Not to worry: the man who fell into an upholstery machine is fully recovered.
+234	Mockery	The difference between the Pope and your boss....   The Pope only expects you to kiss his ring.
+235	Mockery	My mind works like lightning. One brilliant flash and it is gone.
+236	Dry	The only time the world beats a path to your door is if you're in the bathroom.
+237	Satire/Parody	It used to be only death and taxes were inevitable. Now, of course there's shipping and handling, too.
+238	Satire/Parody	A husband is someone who, after taking the trash out, gives the impression that he just cleaned the whole house.
+239	Dry	My next house will have no kitchen -- just vending machines and a large trash can.
+240	Mockery	A brunette said, "I was worried that my mechanic might try to rip me off. I was relieved when he told me all I needed was turn signal fluid."
+241	Mockery	I'm so depressed. My doctor refused to write me a prescription for Viagra. He said it would be like putting a new flagpole on a condemned building.
+242	Anti-joke	I hate sex in the movies. Tried it once. The seat folded up, the drink spilled and that ice, well, it really chilled the mood.
+243	Satire/Parody	Definition of a teenager?   God's punishment for enjoying sex.
+244	Dry	As we slide down the banister of life, may the splinters never point the wrong way.
+245	Satire/Parody	Progress in airline flying;   Now a flight attendant can get a pilot pregnant.
+246	Satire/Parody	I remember when sex was safe and flying was dangerous.
+247	Satire/Parody	Flashlights are tubular metal containers kept in a flight bag for the purpose of storing dead batteries.
+248	Satire/Parody	What is the similarity between air traffic controllers and pilots?   If a pilot screws up, the pilot dies; if ATC screws up, the pilot dies.
+249	Mockery	You certainly look cool. "Thanks, you don't look so hot yourself."
+250	Mockery	Never hold your farts in.  They travel up your spine, into your brain,  and that's where you get shitty ideas from.
+251	Wordplay	A girl's legs are her best friends, but the best of friends must part. -- Redd Foxx
+252	Wordplay	My karma ran over my dogma. -Anonymous
+253	Wordplay	What do you get when you cross a donkey with an onion?  A piece of ass that brings tears to your eyes!
+254	Dry	The journey of a thousand miles ...   begins with a broken fan belt and a leaky tire.
+255	Dry	Sex is like air.  It's not important...   unless you aren't getting any.
+256	Dry	Never test the depth of the water with both feet.
+257	Dry	If you lend someone $20 and never see that person again...  It was probably worth it.
+258	Dry	Some days you are the bug.  Some days you are the windshield.
+259	Dry	Don't worry;   it only seems kinky the first time.
+260	Dry	Good judgment comes from bad experience,   and a lot of that comes from bad judgment.
+261	Mockery	There are two theories to arguing with women.  Neither one works.
+262	Mockery	Generally speaking, you aren't learning much when your lips are moving.
+263	Satire/Parody	We are born naked, wet and hungry, and get slapped on our ass... then things get worse.
+264	Dry	Everyone seems normal until you get to know them
+265	Satire/Parody	There is a fine line between "hobby" and "mental illness."
+266	Wordplay	Waitress: "Would you like your coffee black?" Customer: "What other colors do you have?"
+267	Anti-joke	Sam: "Where have I seen your face before?" Pam: "Right where it is now."
+268	Mockery	I feel so miserable without you, it's almost like having you here. -Stephen Bishop   "I've just learned about his illness. Let's hope it's nothing trivial." - Irvin S. Cobb   "I have never killed a man, but I have read many obituaries with great pleasure." - Clarence Darrow   "He has never been known to use a word that might send a reader to the dictionary." - William Faulkner (about Ernest Hemingway)   "He is not only dull himself, he is the cause of dullness in others." -Samuel Johnson   "He had delusions of adequacy." - Walter Kerr   "I've had a perfectly wonderful evening. But this wasn't it."  -Groucho Marx   "I didn't attend the funeral, but I sent a nice letter saying I approved of it." - Mark Twain   "Some cause happiness wherever they go; others whenever they go." -Oscar Wilde   "He has no enemies, but is intensely disliked by his friends." -Oscar Wilde   "He has Van Gogh's ear for music." - Billy Wilder
+269	Anti-joke	Reporters interviewing a 104 year-old woman: "And what do you think is the best thing about being 104?" the reporter asked.   She simply replied, "No peer pressure."
+270	Dry	The nice thing about being senile is you can hide your own Easter eggs.
+271	Wordplay	Practice safe eating ...Always use condiments.
+272	Dry	Beauty is only a light switch away
+273	Satire/Parody	Fighting for peace is like screwing for virginity.
+274	Mockery	No matter how good she looks, some other guy is sick and tired of putting up with her shit.
+275	Mockery	Make love, not war.   Hell, do both  GET MARRIED!
+276	Mockery	A Woman's Rule of Thumb:  If it has, tires, or testicles, you're going to have trouble with it.
+277	Wordplay	Q: What do you call a non-churchgoer?  A: A Seventh-Day Absentist
+278	Satire/Parody	Mothers of teens know why animals eat their young.
+279	Random/Absurd	Who eats cereal and plays golf?  Tony the Tiger Woods.
+280	Wordplay	Why is it hard for dalmatians to play hide-and-seek?  Because they're always spotted!
+281	Satire/Parody	What do you get when you aim a nuclear weapon at a disobedient country?  South Korean Barbecue.
+282	Wordplay	What do you call a holy man that fries potatoes?  A chipmonk
+283	Wordplay	What kind of coffee was served on the Titanic?  Sanka.
+284	Mockery	What is the best thing about dating a homeless woman?  You can drop her off anywhere.
+285	Satire/Parody	What is the difference between in-laws and outlaws?  Outlaws are wanted.
+286	Mockery	What should a woman say to a man she's just had sex with?  Whatever she wants. He's sleeping.
+287	Dry	After your hands become coated with grease, your nose will begin to itch.
+288	Dry	If it jams, force it. If it breaks, it needed replacing anyway.
+289	Wordplay	Interchangeable parts aren't.
+290	Satire/Parody	The one item you need is always in short supply.
+291	Satire/Parody	Never forget that your weapon was made by the lowest bidder!
+292	Dry	I Give Evolution Two Opposable Thumbs Up.
+293	Wordplay	Q:  What do you call a sheep that does karate? A:  A lamb chop
+294	Anti-joke	Q:  Why are there so many Smiths in the phone book? A:  They all have phones.
+295	Random/Absurd	Why are Democrats better than Republicans in bed? You've never heard of getting a good piece of elephant, have you?
+296	Wordplay	God give me patience....And make it quick!
+297	Wordplay	Q: What do you get when you cross a Scottish sheep with a Peruvian Mountain Goat?   A: The Dolly Llama.
+298	Mockery	LOVE: A word involving four letters, two vowels, two consonants and two idiots. It refers to a disease that can be cured by marriage.  ARCHITECT: A guy not "macho" enough to be an engineer and not queer enough to be an interior designer.  TO DANCE: It refers to the vertical frustration of a horizontal desire.  BRAIN: An organ that allows us to think we think.  BOY SCOUT: A child dressed like an idiot guided by an idiot dressed like a child.  HEADACHE: A woman's most trustworthy modern contraceptive.  BUST: Statue of a man without hands or the parts of a woman where a man's hands have been.  ORAL EXAM: A test you must pass to become an intern in the White house.  A POLITICAL CANDIDATE: A person who gets money form the rich and votes from the poor in order to protect them from each other.  TONGUE: A sexual organ that some degenerates use in order to speak.  PRIEST: A person everyone calls "Father" except for his own children, who call him "Uncle".  EASY: It is said of a woman who has the sexual morality of a man.  MAN: A living thing who at the age of nine months emerges from a place to which we will try to return for the rest of this life.  INTELLECTUAL: A person capable of thinking for more than one hour about anything other than sex.  MODESTY: Knowing you are perfect without telling anyone.  NYMPHOMANIA: A term describing any woman who wants to have sex more often than a man.
+299	Wordplay	What do fish paint with?  Water colours!
+300	Wordplay	Where do fish keep their life savings?  At the river bank!
+301	Dry	People who live in glass houses should make love in the basement.   Never read the fine print. There ain't no way you're going to like it.   If you let a smile be your umbrella, then most likely your ass will get soaking wet.   The only two things we do with greater frequency in middle age are urinate and attend funerals.   The trouble with bucket seats is that not everybody has the same size bucket.   To err is human, to forgive - highly unlikely   Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?   Money can't buy happiness -- but somehow it's more comfortable to cry in a Porsche than in a Hyundai.   Drinking makes some husbands see double and feel single..   Living in a nudist colony takes all the fun out of Halloween.   After a certain age, if you don't wake up aching in every joint, you are probably dead.
+302	Random/Absurd	What's the nicest thing about a nudist wedding?  You don't have to ask - you can see who the best man is.
+303	Anti-joke	What has a whole bunch of little balls and screws old ladies?  A bingo machine
+304	Mockery	True bravery is arriving home late after a boy's night out, being assaulted by your wife with a broom, and still having the guts to ask: Are you still cleaning, or are you flying somewhere?
+305	Wordplay	What is the definition of wicker box?  It's what Elmer Fudd wants to do to Madonna.
+306	Wordplay	What does a Mexican firefighter name his twin sons?  Jose and Josbe
+307	Satire/Parody	Proverb : Behind every successful man, there is a woman.  Refined by me : Behind every successful man, there is a very much surprised woman.
+308	Random/Absurd	Q. Why do women prefer old gynecologists?  A. They have shaky hands!
+309	Random/Absurd	Q: What's green, has 3 eyes, sharp teeth, and blood on its face?  A: I don't know, but it's on your shoulder!
+310	Wordplay	Why do seagulls fly over the sea? Because if they flew over the bay, they'd be called bagels!
+311	Satire/Parody	Why do you need a driver's license to buy liquor when you can't drink and drive?
+312	Wordplay	What do you call a rabbit who tells jokes?  A FUNNY BUNNY!
+313	Random/Absurd	My survey which I conducted said that 8 out of 4 people don't understand fractions.
+314	Mockery	Hey! I recognize you! You're the third one over on the evolutionary scale!
+315	Wordplay	What do you call a black person that wants to be and acts just like Jackie Chan? Blackie Chan
+316	Satire/Parody	Why do psychics ask so many questions when they supposedly already know the answers?
+317	Random/Absurd	All believers in telekinesis raise my hand!
+318	Dry	I couldn't fix your brakes, so instead I made your horn louder.
+319	Wordplay	What starts with the letter F and ends in UCK?   FiretrUCK
+320	Wordplay	Q: What do you call a schizophrenic Buddhist?  A: Someone who is at two with the universe.
+321	Wordplay	Q: What did baby corn say to mama corn?  A: Where's pop corn?
+322	Wordplay	I went into a restaurant that served 'breakfast at any time'. So, I asked for French Toast in the time of the Renaissance
+323	Anti-joke	Q: How many people does it take to change a lightbulb? A: Depends on how many lightbulbs need changing.
+324	Anti-joke	Where did they sign the Declaration of Independence?   At the bottom.
+325	Random/Absurd	Atlas is the biggest thief in history, because he held up the whole world.
+326	Dry	My uncle is very superstitious.  He won't work any week that has a Friday in it.
+327	Satire/Parody	You know your day is bad if your twin sister forgot your birthday.
+328	Wordplay	What do you get when you mix cigarettes in hot water?  A soggy butt.
+329	Wordplay	Did you hear about the tree that made an  Ash of itself?
+330	Satire/Parody	At weddings old people poke me and say, "You're next!"  At funerals, I do the same.
+331	Wordplay	What's the hardest part of skydiving?   The ground!
+332	Anti-joke	What do you get when you cross a porcupine with a shark?   Far far away!
+333	Satire/Parody	A Mexican and an Iraqi terrorist are in a car.  Who's driving?     Answer:  The police.
+334	Mockery	What's the difference between MJ and Mr. Potato Head?  MJ has more noses.   How are MJ and a Wal-Mart bag alike?  They're both plastic and hazardous to children.
+335	Random/Absurd	A wise man once said.  I Don't know ask A Girl!  A wise man Once Said.  Life sucks and then we die.
+336	Random/Absurd	I didn't lose my mind! I sold it on Ebay...
+337	Random/Absurd	For all of you who say I need anger management...  Just to let you know, if I could control my anger, I'd destroy you with it!
+338	Wordplay	Why did the penny become angry with the nickel?  Because the nickel was a "penny pincher".
+339	Wordplay	What did one tradesman say to another?  I hope you have a "barter" day tomorrow.
+340	Mockery	What's the difference between a Mexican and a Bench?  A bench can support a whole family.
+341	Dry	Girl, "Oh, Superman I love you so much!"  Superman,"I don't blame you."
+342	Anti-joke	My family has no traditions. We just do the same thing, over and over again, each year.
+343	Dry	So what's your dog's name?  "I don't know. He won't tell me."
+344	Wordplay	JUDGE:  "The court can produce a dozen witnesses who saw you rob the bank."  ROBBER:  "Big deal! I can bring in hundreds of people who didn't see it!"
+345	Dry	DOCTOR: "Do you smoke or drink?"  PATIENT:  "I didn't know I had a choice."
+346	Mockery	PIANO PLAYER: "Do you think I have a gift for playing?"  LISTENER:  "No, but I'll give you one for stopping!"
+347	Wordplay	What's the difference between ignorance and apathy? "I don't know; and I couldn't care less."
+348	Mockery	It's only funny until someone gets hurt...   Then it's hilarious!
+349	Dry	Don't drink and drive, you'll spill your beer.
+350	Dry	I work at Bed, Bath and Beyond        in the 'Beyond' dept.
+351	Satire/Parody	If to give a man a fish, he eats for a day, but if you teach a man to fish...  He has to buy a license, poles, bait, and sit on his behind for four hours.
+352	Wordplay	There are 10 kinds of people in the world. Those who can do binary and those who can't.
+353	Anti-joke	Do bald men wash their head with soap or shampoo?
+354	Wordplay	What are Martians favorite sweets? Mars-mallows.
+355	Mockery	What's the difference between a man and a condom?  Condoms have changed. They're no longer thick and insensitive.
+356	Mockery	What's a man's ultimate embarrassment?  Having an erection, walking into a wall, and hurting his nose.
+357	Wordplay	What kind of sign does a prostitute hang on her door when she goes on vacation?  "GO SCREW YOURSELF!"
+358	Satire/Parody	Q. What's six inches long, two inches wide, and drives women wild?  A. Money.
+359	Random/Absurd	Always be smarter than the inanimate object that you're working with.
+360	Mockery	What are the first 4 words in the Mexican National Anthem?  "Attention all K-Mart shoppers"
+361	Wordplay	Ever wonder why bottled water costs so much when there is so much of it?     Spell "evian" backwards.....
+362	Satire/Parody	In any organization there is one person who knows what is going on. That person must be fired.
+363	Dry	The law of drunkenness- You can't fall off the floor.
+364	Satire/Parody	Nothing is impossible for the man who doesn't have to do it himself.
+365	Anti-joke	Creativity is great, but plagiarism is faster.
+366	Wordplay	I didn't lose my mind, I just let it wander and it never came back. I miss it so much.
+367	Random/Absurd	Live in a way such that you would not be ashamed to sell your parrot to the town gossip.  -- Will Rogers, Humorist
+368	Anti-joke	Remember- There's a light at the end of every tunnel... just hope it's not a train!
+369	Wordplay	It's impossible to be a participant in the march of time and not get a few blisters.
+370	Mockery	What's an innunedo?  An Italian hemorrhoid prepareation.  What do you call a good looking girl on the campus of Clemson University?  A visitor.  Iraq, a good place to take a shiite.  New rules for poker in Los Angeles -- four clubs beat a king.  Why are all dumb blonde jokes one liners?  So men can understand them.  What's the difference between Gov't bonds and men?  Gov't bond eventually mature.  What did God say after he created man?  "I can do better than this . . ."  What's the best thing to come out of a peter?  The wrinkles.  What's the difference between 'light' and 'hard'?  You can sleep with the light on.  What's the difference between 'dark' and 'hard'?  It stays dark all night.  What does a man consider to be a 7-course meal?  A hot dog and a six-pack.  What's the difference between Saddam Hussein and a bucket of shit?  The bucket.  What do Nagasaki, Hiroshima and Baghdad have in common.  Nothing, yet.  What do Saddam Hussein and Little Miss Muffit have in common?  They both have curds in their whey.  What do you call an Iraqi with a goat under one arm and a sheep under the other?  A bisexual.  What's the difference between Hussein and your ex-wife's lawyer?  Hussein's demands are reasonable.  Pres. Bush is replacing all the male troops in Iraq with women diagnosed with PMS -- they're a hell-of-a-lot meaner and they retain water.  Why don't men's balls hang down to their knees?  The vacuum in their brain keeps 'em up.  What does a female lawyer use for birth control?  Her personality.  How can you reunite the Beatles?  Use two more bullets.  I've never been drunk -- just over served.  I was as pure as the driven snow until I drifted.  What's the difference between oral sex and sushi?  The rice.  What's black, 12" long and hangs in front of an asshole?  A stethoscope.  Man standing next to a woman in a bar.  He looks at her and says, "Can I smell your pussy?"  "Absolutely not," says the woman.  "Must be your feet."  Why are the Rams changing their name to the Tampons?  They're only good for one period and they have no second string.
+371	Wordplay	Why is there an L in NOEL?
+372	Wordplay	When you put 'THE' and 'IRS' together, it's an anagram of 'THEIRS'. Coincidence? I think not!
+373	Mockery	Why is it that when babies are born they only weigh like 7 lbs. yet the mom weighs 30 lbs. more?  Why do they call the small candy bars the "fun sizes"? Wouldn't be more fun to eat a big one?  Why do people say PIN number when that truly means Personal Identification Number Number?  If the handicapped bathrooms are for people who can't walk why do they put them at the end of the bathrooms?  Can someone give up lent for lent?  Why do people say, "You've been working like a dog," when dogs just sit around all day?  If marriage means you fell in love, does divorce mean you climbed out?  And why isn't the word 'gullible' in the dictionary?
+374	Wordplay	Did you hear about the inexperienced terrorist who tried to blow up a bus?  He burnt his mouth on the exhaust pipe.
+375	Mockery	Why is it that people say they "slept like a baby" when babies wake up like every two hours?  If London Bridge is standing why is there a song about it falling down?  If the weather man says "it's a 50% chance of rain" does that mean he has no idea if its going to rain or not?  Can't anybody who has a job go in the "employees only" doors at restaurants? Shouldn't they be more specific and say "employees of THIS place only"?  Why do doctors leave the room while you change? They're going to see you naked anyway, aren't they?  Did you know there is a page 666 in The Bible?  If you could walk through the walls, wouldn't you fall through the floor?  What does the T in T-Shirt really mean?  Do birds pee?  What does OK actually mean?  Why do we say "bye bye" but not "hi hi"?  Why is it called a TV set when there is only one?  If Jimmy cracks corn and no one cares, why is there a song about him?  Why are they called goose bumps? Do geese get people bumps?  Why can magicians make things disappear into thin air, but not thick air?  And why do people point to their wrist when asking for the time, but people don't point to their crotch when they ask where the bathroom is?
+376	Satire/Parody	If it weren't for electricity, we'd all be watching television by candlelight. - George Gobel
+377	Wordplay	Q: What do you have when there are 100 rabbits standing in a row and they all start hopping backwards?    A: Receding hare line.
+378	Wordplay	What did the tornado say to the pecan tree?  "Hold onto your nuts, this is not your average blow job!"  What has four hands and eats aunts?  Two uncles.  What do you get when you cross an onion with a donkey?  Usually an onion with long ears, but sometime you get a piece of ass that will make your eyes water.
+379	Dry	You don't have to go faster than the bear, you just have to go faster than the slowest guy running from the bear.
+380	Satire/Parody	If Wile Coyote had enough money for all that Acme crap, why didn't he just buy dinner?  If there's an exception to every rule, is there an exception to that rule?  Why do we leave expensive cars in the driveway, when we keep worthless junk in the garage?  Why do they call it taking a dump? Shouldn't it be leaving a dump?  Why is it good to be a Daddy's girl, but bad to be a Momma's boy?  Aren't you tired of people asking you rhetorical questions and you don't know if they are rhetorical questions or not?  If a cow laughed real hard, would milk come out her nose?  Did you ever notice when you blow in a dog's face he gets mad at you? But when you take him in a car, he sticks his head out the window!  If quitters never win, and winners never quit, who came up with, "Quit while you're ahead"?  If Fed Ex and UPS were to merge, would they call it Fed UP?
+381	Dry	Save the trees - wipe your arse with an owl.  "My point-and-click interface is an Uzi submachine gun."  Saint Michael - patron saint of underpants  I'm an apathetic sociopath - I'd kill you if I cared.  I'm completely sane, according to the voices in my head.  My wife's an earth sign. I'm a water sign. Together we make mud.  Skiing is for people who can't just break their legs around the house.  Penguins mate for life. That doesn't surprise me much cos they all look alike.  Grammar has gots to be one of the most importantest things ever!  If I were a recovering s*x addict, I'd opt for group therapy.  "I hope I never do anything to bring shame on myself, my family or my other family."  "Secret": Something you tell to one person at a time. "Tomorrow": One of the greatest labour saving devices of today.  Opera is when a guy gets stabbed in the back and instead of bleeding, he sings.  My short-term memory ain't what it something something.  I am an I/O Error.
+382	Satire/Parody	* "On the advice of our solicitors, this T-shirt bears no message at this time". * "That's it! I'm calling me granny" (seen on a seven-year-old) * "Rehab is for quitters" * "My dog can lick anyone" * "Party - my cot - 2 a.m." (on a baby-size T-shirt) * "If a woman's place is in the home WHY AM I ALWAYS IN THIS FECKIN' CAR!" * "They call it 'PMT' cos 'Mad Cow Disease' was already taken" * "A picture is worth a thousand words - but it uses up a thousand times the memory." * "HAM AND EGGS - a day's work for a chicken; a lifetime commitment for a pig." * "Computer programmers don't byte, they nybble a bit." * "The trouble with life is there's no background music." * "The original point and click interface was a Smith & Wesson." * "Two rights do not make a wrong. They make an airplane." * "Quoting one is plagiarism. Quoting many is research."
+383	Random/Absurd	If you want to make someone laugh, use this line:   Sorry. say that again. I couldn't hear you over my fart.
+384	Mockery	Q: What does Donald Trump say before he lights off a fire work?  A:You`re fired!
+385	Satire/Parody	You know you're ghetto when you carry food stamps in a money clip!
+386	Mockery	Wait a second!!! I am NOT a loser! I have tried. I am a failure.
+387	Random/Absurd	What did the porcupine say to the cactus?  "Is that you, mommy?"
+388	Anti-joke	JUST because I have a short attention span doesn't mean I
+389	Dry	When I die I want to go peacefully - like my grandfather did - in his sleep.  Not screaming like the passengers in his car.
+390	Mockery	Don't you have a terribly empty feeling - in your skull?
+391	Wordplay	What's the difference between a duck and a spider?  A duck has a web in its feet, a spider has its feet in a web!
+392	Wordplay	What do you get when you cross a praying mantis with a termite?  A bug that says grace before eating your house.
+393	Dry	Why do they call it disposable douche? Is there a kind of douche you keep after using?  Why do they call them "apartments" when they are all stuck together?  Why do they put Braille dots on the keypad of the drive-up ATM?  Why do they report power outages on TV?  Why do they sell a pound cake that only weighs 12 ounces?  Why do 'tug'boats push their barges?   Why do we drive on parkways and park on driveways?  Why do we have hot water heaters?  Why do we play in recitals and recite in plays?  Why do we put suits in a garment bag and garments in a suitcase?  Why do we sing 'Take me out to the ball game', when we are already there?   Why do we wash bath towels? Aren't we clean when we use them?  Why does "slow down" and "slow up" mean the same thing?   Why does an alarm clock "go off" when it begins ringing?  Why does flammable and inflammable mean the same thing?  Why doesn't "onomatopoeia" sound like what it is?  Why don't you ever hear about gruntled employees?  Why don't you ever see baby pigeons?  Why is a person who plays the piano called a pianist, but a person who drives a race car not called a racist?  Why is a women's prison called a penal colony?  Why is it called a "building" when it is already built?  Why is it called a bust, when it stops right before the part it is named after?  Why is it called a TV "set" when you only get one?  Why is it called 'after dark', when it is really after light?  Why is it so hard to remember how to spell MNEMONIC?  Why is it that when you're driving and looking for an address, you turn down the volume on the radio?   Why is it when a door is open it's ajar, but when a jar is open it's not adoor?  Why is it when two planes almost hit each other it is called a "near miss"?  Why is it, whether you sit up or sit down, the result is the same?  Why is Mickey Mouse bigger than his dog Pluto?  Why is the alphabet in that order? Is it because of that song?   Why is the word "abbreviate" so long?  Don't you have to get up to get to the tape?  Why is there an expiration date on SOUR cream?  Why is there only ONE Monopolies Commission?  Why isn't "palindrome" spelled the same way backwards?  Why isn't phonetic spelled the way it sounds?   Why isn't there mouse-flavored cat food?  Would a fly without wings be called a walk?  You know how most packages say "Open here". What is the protocol if the package says, "Open somewhere else"?  Can fat people go skinny-dipping?  After eating, do amphibians have to wait an hour before getting out of the water?  You know that little indestructible black box that is used on planes, why can't they make the whole plane out of the same substance?  Are there seeing eye humans for blind dogs?  Have ex-bankers become disinterested?  Have ex-civil lawyers been distorted?  Have ex-locomotive engineers been derailed?  Have ex-mathematicians become dysfunctional?  Have ex-punsters been expunged?  How come toy hippos are always blue, or purple, when real hippos are brown?  Why is it that whenever you sing to the radio, your voice is higher? Even when you have a low voice?  Why is most lunchmeat bigger than the bread?  Is there a certain temperature at which it stops being qualified as cold? At what temperature does it qualify as hot?  If you were a pastor, and you were getting married, would you hire a pastor, or would you do the wedding yourself?  Why is Joey short for Joe, when Joey has more letters?  Can someone have their head in the clouds and be down-to-earth at the same time?  If a person suffered from amnesia and then was cured would they remember that they forgot?  If you died with braces on would they take them off?   Why do mattresses have designs on them when they're always covered with sheets?  If a singer sings their own song during a karaoke party, is it considered karaoke?  If conjoined twins participate in sports, do they count as one or two players?  Why is shampoo clear but conditioner not?  Do cows have calf muscles?  How come French fries are not considered a vegetable, they are just deep fried potatoes?  Do babies produce more spit than adults?  Why do they say "an alarm going off," if it is really going on?
+394	Wordplay	If someone says, "A penny for your thoughts,", and you give them your two cents worth, what happens to the other penny?
+395	Wordplay	Q. Why are families like chocolate?    A. They are mostly sweet, with a few nuts!
+396	Mockery	Q.  What do me and a mirror have in common?  A.  When we see your face we both crack up!
+397	Satire/Parody	What is the difference between a lawyer and a wood tick?  A wood tick falls off when you die.
+398	Satire/Parody	How can you spot a happy motorcyclist?  By the bugs in his teeth.
+399	Mockery	Honk if you hate noise pollution!
+400	Wordplay	At the end of a T.V. show, why do they say "filmed in front of a live audience?"   Well, it wouldn't be a dead audience, would it?
+401	Wordplay	Joke: Why does Snoop Dogg Carry an umbrella?     Answer: For Drizzle my nizzle
+402	Anti-joke	Don't follow in my footsteps, I walk into walls.
+403	Wordplay	I've often wanted to drown my troubles,  but i can't get my wife to go swimming!
+404	Satire/Parody	Few women admit their age, Few men act theirs.
+405	Dry	Never test the depth of water with both feet.  Don't take candy from strangers, unless they offer you a ride.  I'll start exercising as soon as i get into shape.  If you have something to say, raise your hand and put it over your mouth.  Maybe you should go to e-bay and buy a clue.  Earth is full. go home.  Gee, I'd like to care, but I wasn't given that gene.  Mirrors don't lie, and lucky for you, they can't laugh either. (i like this one)  If you can't laugh at yourself, at least let me do it.  I don't know what makes you so dumb, but it really works.  Men are from Mars, Women are from Visa. (ok that was kind'a dumb)  I used to have super powers but my therapist took them away.
+406	Wordplay	Q. How do lesbians handle their liquor? A. By the ears. (Lick her)
+407	Wordplay	Q. What do tight pants and a cheap motel have in common? A. No ball room
+408	Wordplay	Why did the squirrel go to the acorn shop?  He broke his nuts on something!
+409	Random/Absurd	laugh and the whole world laughs with you, cry and some-one will hear you, but fart and you're on your own!!
+410	Wordplay	The squirrel's eyes widened as he tried to move but froze when he realized........  He'd buried the wrong nuts!
+411	Wordplay	I'm trying computer dating, at least I'm not getting dumped... but I do get deleted.
+412	Wordplay	if stealing kids is kidnapping,is stealing adults oldnapping?
+413	Wordplay	Where does a Dog go when he loses his tail?  Answer:  A retailer
+414	Wordplay	Why do snakes always lose in court?     Answer:   They don't have a leg to stand on!
+415	Satire/Parody	Did you hear the one about the gay midget?  He came out of the cupboard.
+416	Satire/Parody	Why is it better to be killed by a shark than by a lawyer?    Answer:   The shark would be brief.
+417	Dry	Why did the chicken cross the road?  Why do you care?
+418	Wordplay	What did Spock find in the toilet?   The captain's log.
+419	Wordplay	Did you hear about the two peanuts who got mugged on their walk down the street?   They were assaulted
+420	Mockery	I'm a schizophrenic and so am I.
+421	Wordplay	What did the ocean say to the beach?  Nothing, it just waved
+422	Wordplay	How do you tell a boy chromosome from a girl chromosome?  Pull down their genes.
+423	Random/Absurd	Did Adam and Eve have belly buttons?  What happens if you pop the popcorn upside down?  Why aren't HAMburgers made out of ham?   And my favorite: Donde estan mis pantalones?
+424	Dry	Why am I stronger than Tarzan?  Because I can beat on my chest without screaming.
+425	Dry	1. Well, this day was a total waste of makeup.   2. Make yourself at home! Clean my kitchen.   3. Who are these kids and why are they calling me Mom?   4. Don't bother me. I'm living happily ever after.   5. Do I look like a people person?   6. This isn't an office. It's Hell with fluorescent lighting.   7. I pretend to work. They pretend to pay me.   8. Therapy is expensive, poppin' bubble wrap is cheap! You choose.   9. Bottomless pit of needs & wants.   10. I like cats, too. Let's exchange recipes.   11. If I want to hear the pitter patter of little feet, I'll put shoes on my cat.   12. Does your train of thought have a caboose?   13. Let me show you how the guards used to do it.   14. And just how may I screw you over today?   15. I'm not crazy, I've just been in a very bad mood for 30 years.   16. If only you'd use your powers for good instead of evil...   17. Allow me to introduce my selves.   18. Sarcasm is just one more service we offer.   19. Whisper my favorite words: "I'll buy it for you."   20. Better living through denial.   21. Whatever kind of look you were going for, you missed.   22. Suburbia: where they tear out the trees & then name streets after them.   23. Do they ever shut up on your planet?   24. Are these your eyeballs? I found them in my cleavage.   25. I'm not your type. I'm not inflatable.   26. I'm trying to imagine you with a personality.   27. A cubicle is just a padded cell without a door.   28. I can't remember if I'm the good twin or the evil one.   29. Don't worry. I forgot your name, too!   30. Adults are just kids who owe money.   31. I just want revenge. Is that so wrong?   32. I work 40 hours a week to be this poor.   33. You say I'm a "b----" like it's a bad thing.   34. Can I trade this job for what's behind door #2?   35. Macho Law forbids me from admitting I'm wrong.   36. Nice perfume. Must you marinate in it?   37. Not all men are annoying. Some are dead.   38. Chaos, panic, & disorder-my work here is done.   39. You look like crap. Is that the style now?   40. Everyone thinks I'm psychotic, except for the friends in my head.
+426	Mockery	Here's a stupid warning label:  If you look at a fire extinguisher, it will say "Non-flamable"
+427	Dry	If you fall down a bottomless pit... do you eventually die of starvation?
+428	Dry	Why doesn't the glue inside the bottle dry?
+429	Random/Absurd	If you put a slinky on an escalator, would it go forever?
+430	Random/Absurd	what happened to the lost boy? he came to a house and wrote a joke that was exactly like this except in larger font and with a little more umph ya know what i mean a very humerous joke in fact i do believe he is working on more ya know i lied i ain't lost i just like making very very very long jokes sorta like this one ya know what i wrote is called a run on sentence my papa told me about run ons they are fun i can't imagine not having a papa if you don't have one i feel bad for you starting at 'starting' i wrote 100 words thats a lot but still my favorite number is464,546,879,6 but i won't go till there i can't believe i counted my words how nerdy i'm stopping soon wait......... 127 ha buh bye
+431	Wordplay	Why should you never play poker in the jungle?  -because there are too many cheatahs!!
+432	Satire/Parody	Why drink and drive when you can smoke and fly?
+433	Satire/Parody	May your troubles be as few and far between as your great-grandmother's teeth.
+434	Satire/Parody	Found in micellaneous things.  If at first you don't succeed, skydiving isn't for you.  I don't have a short attention span, it's just that I-  Etc.:a sign to make others believe that you know more than you actually do.  My mind not only wanders; sometimes it leaves completely.   If your dog is fat, you're not getting enough exercise.  Without geography, you're nowhere.  When someone tells you nothing is impossible, tell him to dribble a football.  Man who scratch ass should not bite fingernail.  Baseball is wrong; man with four balls cannot walk.  Man who drives like hell, bound to get there.  It takes many nails to build a crib, but one screw to fill it.  Crowded elevator smells different to midgets.  Man who stands on toilet is high on pot.  That will be all for now. Ciao
+435	Dry	Q. How do you keep a jack ass in suspense?    A. I`ll tell you tomorrow.
+436	Random/Absurd	Here's a lighted dynamite stick, please hold it until I get back.
+437	Random/Absurd	To all who do NOT believe in evolution, I have proof: MY spaghetti from two weeks ago has started growing arms and legs and I think it just called me, "Mommy".     By the way, I, myself, do NOT believe in the theory of evolution.
+438	Random/Absurd	I used to be schizophrenic, but now we're just fine
+439	Wordplay	Vini vedi velcro (I came, I saw, I stuck around)
+440	Wordplay	Q: What is a cheerleader's favorite drink?   A: Root Beer!
+441	Wordplay	What did the Chinese people call their retarded son?  Sum Ting Wong
+442	Mockery	What do you call a drummer without a girlfriend?  Homeless!   P.S. This works for just about any instrument player.
+443	Wordplay	Q) What do you call an ant from overseas?   A) Important
+444	Random/Absurd	I bought some powdered water but I don't know what to add to it.
+445	Wordplay	I bought a dog the other day. I named him Stay. It's fun to call him. "Come here, Stay! Come here, Stay!" He went insane. Now he just ignores me and keeps typing.
+446	Dry	How do you tell when you're out of invisible ink?
+447	Wordplay	Change is inevitable... except from vending machines.
+448	Mockery	The problem with keeping an open mind is that all my ideas tend to fall out.
+449	Mockery	My goal is to find a soulmate.                                It's not cheating, just multi-tasking.
+450	Dry	When everything's coming up roses, it's time to celebrate.  But, when everything's coming up daisies, it's time to mourn.
+451	Random/Absurd	I always follow my first instinct,  That is unless I second guess myself. --------------------------------------------- Why don't you have a drink,  your only driving to a funeral right? --------------------------------------------- Why buy a watch from the competitor,  I thought time was against us? ---------------------------------------------- You must be smart,  because you just confused us all. ----------------------------------------------
+452	Dry	1) A clear concience is a sign of a bad memory.  2) For every action,there is an equal and opposite          critisism.  3) He who hesitates is probably right.  4) Eagles may soar,but weasels don't get sucked     into jet engines.  5) I went to find some camouflage clothing,but     I couldn't find it.  6) My wife went to a self help group for compulsive     talkers,it's called On & On Anon.  7) I'm reading a terrific book about anti-gravity,     I just can't put it down.  8) I allways wanted to be somebody,I guess I should     have been more specific...  9) If you are what you eat,I'm dead meat.  10) Middle age is having two temptations and       choosing the one that will get you home earlier.  11) Seen it all,done it all,just can't remember most        of it.  12) Its a cruel choice,work or daytime tellevision.  13) I intend to live forever -------- so far,so good.  14) I have seen the truth and it makes no sence.  15) The best part about computers is that they make       very fast mistakes. ------------------------------------------------------------
+453	Satire/Parody	The following were some comments made in the year 1957:   (1) "I'll tell you one thing, if things keep going the way they are, it's going to be impossible to buy a week's groceries for $20.00."   (2) "Have you seen the new cars coming out next year? It won't be long when $5,000 will only buy a used one."   (3) "If cigarettes keep going up in price, I'm going to quit. A quarter a pack is ridiculous."   (4) "Did you hear the post office is thinking about charging a dime just to mail a letter?"   (5) "If they raise the minimum wage to $1, nobody will be able to hire outside help at the store."   (6) "When I first started driving, who would have thought gas would someday cost 29 cents a gallon. Guess we'd be better off leaving the car in the garage."   (7) "Kids today are impossible. Those ducktail hair cuts make it impossible to stay groomed. Next thing you know, boys will be wearing their hair as long as the girls'."   (8) "I'm afraid to send my kids to the movies any more. Ever since they let Clark Gable get by with saying 'damn' in 'Gone With The Wind', it seems every new movie has either 'hell' or 'damn' in it."   (9) "I read the other day where some scientist thinks it's possible to put a man on the moon by the end of the century. They even have some fellows they call astronauts preparing for it down in Texas."   (10) "Did you see where some baseball player just signed a contract for $75,000 a year just to play ball? It wouldn't surprise me if someday that they will be making more than the President."   (11) "I never thought I'd see the day all our kitchen appliances would be electric. They are even making electric typewriters now."   (12) "It's too bad things are so tough nowadays. I see where a few married women are having to work to make ends meet."   (13) "It won't be long before young couples are going to have to hire someone to watch their kids so they can both work."   (14) "No one can afford to be sick any more, $35.00 a day in the hospital is too rich for my blood."   (15) "I'm just afraid the Volkswagen car is going to open the door to a whole lot of foreign business."   (16) "Thank goodness I won't live to see the day when the Government takes half our income in taxes. I sometimes wonder if we are electing the best people to Congress."   (17) "The drive-in restaurant is convenient in nice weather, but I seriously doubt they will ever catch on."   (18) "I guess taking a vacation is out of the question now days. It costs nearly $15.00 a night to stay in a hotel."
+454	Dry	If the cops arrest a mime, do they tell him he has the right to remain silent?
+455	Wordplay	Always keep your words soft and sweet, just in case you have to eat them.
+456	Mockery	Famous last words:  "Ok, I'm only going to have one..."  -- Said the polygamist right after marrying his first wife.
+457	Wordplay	Why can't a gypsy man walk right?  Because he has crystal balls!
+458	Mockery	It's better to keep your mouth shut and give the impression that you're stupid than to open it and remove all doubt.
+459	Dry	Accept that some days you are the pigeon, and some days you are the statue.
+460	Dry	It may be that your sole purpose in life is simply to serve as a warning to others.
+461	Mockery	I love you is eight letters, but so is "bull shit."
+462	Dry	I decided to kill the sexiest person alive, but then I realized suicide is illegal.
+463	Dry	I often dream of the day when my car will be able to drive me home after a long hard day of work.  That's about the time the driver next to me abruptly blows his horn telling me to wake up and get back into my own lane.
+464	Mockery	Q.  How do you keep an idiot busy?  A.  Tell him that the ground is going to fall on him if he doesn't get off it.
+465	Wordplay	Did you hear about the cannibal who was late to dinner?  He got the cold shoulder.
+466	Random/Absurd	Known fact amongst all men: Having sex can help combat asthma and hay fever, now we need to inform all women!
+467	Wordplay	No one dies a virgin, life screws us all!
+468	Random/Absurd	Q:  What do mice say when they see the moon??  A:  "Ooh, Cheese!"
+469	Wordplay	I never engage in a battle of wits with an unarmed appoint
+470	Wordplay	When I worked in the tourist industry in Florida, we got to wear some of the buttons that were for sale.  My favorite read :  We love serving tourists; I like mine well done!
+471	Satire/Parody	To the optimist, the glass is half full.  To the pessimist, the glass is half empty.   To the accountant, the glass is twice as big as it needs to be.
+472	Dry	How do we look at a calendar to find what date it is, when we don't know the date?
+473	Anti-joke	How is it we look in a dictionary to figure out how to spell something if we don't know how to spell it?
+474	Wordplay	A man who digs? Doug!  A man who doesn't dig? Douglas!  A woman with a cat on her head? Kitty!
+475	Mockery	I signed up for an exercise class and was told to wear loose-fitting clothing. If I HAD any loose-fitting clothing, I wouldn't have signed up in the first place!    When I was young we used to go "skinny dipping," now I just "chunky dunk."    Wouldn't it be nice if whenever we messed up our life we could simply press 'Ctrl Alt Delete' and start all over?    Stress is when you wake up screaming and then you realize you haven't fallen asleep yet.    My husband says I never listen to him. At least I think that's what he said.    Just remember...if the world didn't ****, we'd all fall off.    If raising children was going to be easy, it never would have started with something called labor!    Brain cells come and brain cells go, but fat cells live forever.    But Most Of All, Remember !  A Friend Is Like A Good Bra. Hard to Find, Supportive, Comfortable, And Always Close To Your Heart!!!!!!!!!
+476	Dry	1.  I used to eat a lot of natural foods until I learned that most people die from natural causes.   2.  Health nuts are going to feel stupid someday, lying in hospitals dying of nothing.
+477	Satire/Parody	Why did our founding fathers expressed equality, but the constitution says people born in other countries can't be president?
+478	Satire/Parody	In the 60's, people took acid to make the world appear weird.  Now the world is weird and people take Prozac to make it normal.
+479	Wordplay	What do you get when a dinosuar stubs its toe?  A: Stubasaurus
+480	Satire/Parody	The best things in life are free and the worst things in life cost only $19.95.
+481	Wordplay	Q.  Who likes to make dinner for Peter Pan?   A.  Captain Cook!
+482	Wordplay	Why couldn't the Human Torch get married?  He couldn't find his Match!
+483	Wordplay	What do you call a stupid garbage can?  A Dumb-ster!
+484	Random/Absurd	No, of course it isn't.
+485	Dry	rudeness - someone who keeps talking while your are trying to interrupt.
+486	Mockery	From a brunette's point of view: Blondes may have more fun but hey, at least we can read!
+487	Random/Absurd	This is laziness!
+488	Wordplay	D.A.R.E. sadly doesn't stand for Drugs Are Really Excellent.
+489	Random/Absurd	We rated with RSAC i, TM Safe Surf Rated.
+490	Random/Absurd	We have all wished for something, but think about this:  Hold out your hands, wish in one, and crap in the other.  Which hand do you think will get filled up first?
+491	Mockery	Have you seen the lottery tickets from India?  If the spot on your ticket matches the spot on your forehead, you win a 7-11 store.
+492	Wordplay	The only thing truly free of charge is a dead battery.
+493	Satire/Parody	What can a picnic table do that a musician can't do?  Support a family of six!
+494	Wordplay	The Lazy Bowl Reclining toilet: It's plush while you flush!
+495	Random/Absurd	Sometimes, I get so sleepy that I fall asleep at my keyboa-----hogasvfbhjhfaokL;'GRUHIKMUIHGDFJSJIKkljhvLD ;YWEHKJF,HCsssljga lrsaio.ra;ugsrol,.k,ijhekng0ljr
+496	Satire/Parody	I saw that my low-fuel light was on, so I stopped and got $10 worth of gas. And when I was done, I saw that my low-fuel light was still on.   Quitters never win, winners never quit. But those who never win and never quit are idiots.   There can't be any life on Mars. They haven't asked the United States for any money.   When thieves get caught stealing money, they go to jail. When politicians get caught, it's an honest mistake.   Why do men ask for a woman's hand in marriage? Because they are tired of using their own.   My greatest fear is there is no such thing as PMS and this is really my wife's personality.   Federal Express had a terrific obstacle to overcome: They had to convince people that anything with the word "Federal" in it could be speedy.   Dr. Ruth says women should tell our lovers how to make love to us. My boyfriend goes nuts if I tell him how to drive.   After divorce, most men realize that poker isn't the only game that starts with holding hands and ends with an astounding financial loss.   For two people in a marriage to live together, day after day, is unquestionably the one miracle the Vatican has overlooked.
+497	Dry	Short naps prevent aging, especially if taken while driving.
+498	Wordplay	When you marry, your spouse's family become "in-laws."  So, when you divorce, does that make them "outlaws?"
+499	Random/Absurd	If you love someone, set them free. If they come back, set them on fire.
+500	Wordplay	The landlady asked me if I minded making my own bed. I said I didn't and she said great there's a hammer and nails in the corner.
