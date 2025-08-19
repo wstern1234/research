@@ -1,6 +1,6 @@
 ## About
 
-I've uploaded the culmination of 2 research projects from my courses so far at UC Berkeley, and plan to upload more following my graduation in May 2025.
+I've uploaded the culmination of 2 research projects from my courses so far at UC Berkeley.
 
 Under `ml-research` you will find the research my project partners and I conducted for our machine learning course. In this project, we created and tested a variety of ML models on an early asthma diagnosis dataset.
 
